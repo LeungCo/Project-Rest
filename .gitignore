@@ -8,6 +8,8 @@ target
 # Eclipse
 .settings
 .cache
+.cache-main
+.cache-tests
 .project
 .classpath
 .scala_dependencies
