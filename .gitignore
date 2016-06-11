@@ -1,0 +1,18 @@
+#SBT
+target
+
+# IntelliJ
+/.idea
+/.idea_modules
+
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+.scala_dependencies
+bin
+
+# Play
+logs
+RUNNING_PID
