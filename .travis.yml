@@ -1,6 +1,15 @@
-language: java
+language: scala
+
+scala:
+- 2.11.2
+
 jdk:
 - oraclejdk8
+
+env:
+- PLAY_VERSION=2.5.4
+
 script:
 - sbt test
+
 
